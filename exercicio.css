@@ -1,0 +1,57 @@
+.titulo-pagina {
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.titulo-pagina h1 {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.lista-exercicios {
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.card-exercicio {
+    background-color: #ffffff;
+    padding: 15px;
+    font-weight: bold;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.05);
+
+}
+
+.card-exercicio p {
+    margin: 8px 0;
+    font-weight: bold;
+    color: #555;
+}
+
+.btn {
+    display: inline-block;
+    padding: 8px 15px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    transition: 0.3s;
+}
+
+.btn-azul {
+    background-color: #3b82f6;
+}
+
+.btn-azul:hover {
+    background-color: #2563eb;
+}
+
+.btn-cinza {
+    background-color: #6b7280;
+}
+
+.btn-cinza:hover {
+    background-color: #4b5563;
+}
